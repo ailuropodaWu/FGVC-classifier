@@ -1,5 +1,5 @@
-# NYCU-Intro-Machine-Learning-Project
- FGVC Classifier on CUB-200-2011
+# FGVC Classifier on CUB-200-2011
+***NYCU Intro. ML final project***
 
 ## Performance
 - Accuracy 85.9% on both public and private leaderboards
